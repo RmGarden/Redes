@@ -1,4 +1,5 @@
-# 🤝 TCP Handshake: Como os Computadores Dão as Mãos
+# 🤝 TCP Handshake: 
+## Como os Computadores Dão as Mãos
 
 Viste pacotes estranhos no Wireshark e ficaste com dores de cabeça? Vamos descomplicar!
 
@@ -29,16 +30,16 @@ A partir deste momento, o canal está aberto e o jogo/transmissão pode começar
                  |                                                   |
                  | ----- 3. ACK (Recebido 500! Ligação OK) --------> |
                  |                                                   |
-         ================== LIGAÇÃO ESTABELECIDA ==================
+              =================== LIGAÇÃO ESTABELECIDA ==================
                  |                                                   |
                  | === Transmissão de Dados (HTTP, Discord, etc) ==> |
+```
+**Como identificar no Wireshark:**  
+**Source (Origem):** Quem está a enviar o pacote nesse passo.
 
-Como identificar no Wireshark:
-Source (Origem): Quem está a enviar o pacote nesse passo.
+**Destination (Destino):** Quem está a receber o pacote.
 
-Destination (Destino): Quem está a receber o pacote.
-
-Info : Procura as etiquetas entre parênteses retos:
+**Info:** Procura as etiquetas entre parênteses retos:
 
 Passo 1: [SYN] ou [S]
 
@@ -46,39 +47,34 @@ Passo 2: [SYN, ACK] ou [S.]
 
 Passo 3: [ACK] oou [A]
 
-🧪 Quiz: "Master do Wireshark"
+## 🧪 Quiz: "Master do Wireshark"
 Testa os teus conhecimentos com este mini-quiz!
 
-Pergunta 1: O Início da Conversa
-Estás no Discord e queres mandar uma mensagem para um servidor.
-Qual é a primeira flag TCP que o teu computador envia para abrir a conversa?
+**Perguntas:** 
 
-[ ] A) [ACK]
-
-[ ] B) [SYN]
-
-[ ] C) [FIN]
-
-
-Pergunta 2: A Resposta Dupla
-Quando o servidor recebe o teu [SYN],
-como é que ele responde para dizer que ouviu o teu olá e que também quer falar contigo?
-
-[ ] A) Envia apenas um [ACK]
-
-[ ] B) Envia um [SYN, ACK]
-
-[ ] C) Envia um [RESET]
+1: O Início da Conversa  
+Estás no Discord e queres mandar uma mensagem para um servidor.  
+Qual é a primeira flag TCP que o teu computador envia para abrir a conversa?  
+  
+[ ] A) [ACK]  
+[ ] B) [SYN]  
+[ ] C) [FIN]  
 
 
-Pergunta 3: Detetive do Wireshark
-No Wireshark, estás a analisar um problema de ligação.
-Vês os pacotes 1 (SYN) e 2 (SYN-ACK), mas o pacote 3 (ACK) nunca é enviado pelo cliente.
-O que aconteceu?
+2: A Resposta Dupla  
+Quando o servidor recebe o teu [SYN],  
+como é que ele responde para dizer que ouviu o teu olá e que também quer falar contigo?  
 
-[ ] A) A ligação foi estabelecida com sucesso.
+[ ] A) Envia apenas um [ACK]  
+[ ] B) Envia um [SYN, ACK]  
+[ ] C) Envia um [RESET]  
 
-[ ] B) O aperto de mão não terminou; a ligação não foi aberta e os dados não vão passar.
 
+3: Detetive do Wireshark  
+No Wireshark, estás a analisar um problema de ligação.  
+Vês os pacotes 1 (SYN) e 2 (SYN-ACK), mas o pacote 3 (ACK) nunca é enviado pelo cliente.  
+O que aconteceu?  
+
+[ ] A) A ligação foi estabelecida com sucesso.  
+[ ] B) O aperto de mão não terminou; a ligação não foi aberta e os dados não vão passar.  
 [ ] C) O servidor desligou-se imediatamente.
-
