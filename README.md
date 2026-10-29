@@ -10,8 +10,8 @@ O objetivo principal é descomplicar temas complexos como análise de pacotes, p
 
 | Módulo / Tema | Descrição | Ficheiro / Link |
 | :--- | :--- | :--- |
-| **01. Fundamentos & Modelo OSI** | Camadas do Modelo OSI e TCP/IP, encapsulamento e conceitos base. | [Consultar](./01_OSI.md) |
-| **02. Protocolo TCP & Handshake** | O guia completo do *TCP 3-Way Handshake* (SYN, SYN-ACK, ACK). | [Consultar](./02_TCP.md) |
+| **01. Modelo OSI** | Camadas do Modelo OSI e TCP/IP, encapsulamento e conceitos base. | [Consultar](./01_OSI.md) |
+| **02. TCP & Handshake** | O guia completo do *TCP 3-Way Handshake* (SYN, SYN-ACK, ACK). | [Consultar](./02_TCP.md) |
 | **03. IP & Subnetting** | IPv4, cálculo de máscaras e divisão de sub-redes sem complicações. | [Consultar](./03_IP&Subnetting.md) |
 | **04. Notação CIDR** | Decimal para binário, máscaras de sub-rede e notação CIDR. | [Consultar](./04_CIDR.md) |
 | **Desafios** | Desafios de redes. | [Consultar](./Desafios.md) |
