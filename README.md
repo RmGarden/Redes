@@ -14,6 +14,7 @@ O objetivo principal é descomplicar temas complexos como análise de pacotes, p
 | **02. Protocolo TCP & Handshake** | O guia completo do *TCP 3-Way Handshake* (SYN, SYN-ACK, ACK). | 
 | **03. IP & Subnetting** | IPv4, cálculo de máscaras e divisão de sub-redes sem complicações. | 
 | **04. Notação CIDR** | Decimal para binário, máscaras de sub-rede e notação CIDR. |
+| **Desafios** | Desafios de redes. |
 
 
 ---
