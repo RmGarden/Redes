@@ -15,6 +15,7 @@ O objetivo principal é descomplicar temas complexos como análise de pacotes, p
 | **03 [IP & Subnetting](./03_IP&Subnetting.md)** | IPv4, cálculo de máscaras e divisão de sub-redes sem complicações. | [Consultar](./03_IP&Subnetting.md) |
 | **04 [Binário & CIDR](./04_CIDR.md)** | Decimal para binário, máscaras de sub-rede e notação CIDR. | [Consultar](./04_CIDR.md) |
 | **05 [DNS](./05_DNS.md)** | Processo completo de DNS | [Consultar](./05_DNS.md) |
+| **06 [Roteamento](./06_Roteamento.md)** | Roteamento Estático & Default Gateway | [Consultar](./06_Roteamento.md) 
 | **[Desafios Práticos](./Desafios.md)** | Desafios de redes. | [Consultar](./Desafios.md) |
 
 
