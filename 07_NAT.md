@@ -36,7 +36,7 @@ O NAT resolve isto permitindo que uma casa inteira (ou uma empresa) partilhe **a
 
 ---
 
-## 🧪 Rápido: Mestre do NAT
+## 🧪 Quiz: Mestre do NAT
 
 ### **Perguntas:**
 1: Qual é a principal função de um router com NAT ativado?
