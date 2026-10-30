@@ -16,6 +16,8 @@ O objetivo principal é descomplicar temas complexos como análise de pacotes, p
 | **04 [Binário & CIDR](./04_CIDR.md)** | Decimal para binário, máscaras de sub-rede e notação CIDR. | [Consultar](./04_CIDR.md) |
 | **05 [DNS](./05_DNS.md)** | Processo completo de DNS | [Consultar](./05_DNS.md) |
 | **06 [Roteamento](./06_Roteamento.md)** | Roteamento Estático & Default Gateway | [Consultar](./06_Roteamento.md) 
+| **07 [NAT](./07_NAT.md)** | Network Address Translation | [Consultar](./07_NAT.md) 
+| **08 [ARP](./08_ARP.md)** | Address Resolution Protocol | [Consultar](./08_ARP.md) 
 | **[Desafios Práticos](./Desafios.md)** | Desafios de redes. | [Consultar](./Desafios.md) |
 
 
