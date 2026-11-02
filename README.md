@@ -16,7 +16,7 @@ O objetivo principal é descomplicar temas complexos como análise de pacotes, p
 | **06 [Roteamento](./06_Roteamento.md)** | Roteamento Estático & Default Gateway | [Consultar](./06_Roteamento.md) |
 | **07 [NAT](./07_NAT.md)** | Network Address Translation | [Consultar](./07_NAT.md) |
 | **08 [ARP](./08_ARP.md)** | Address Resolution Protocol | [Consultar](./08_ARP.md) |
-| **08 [VLANS](./09_VLANS.md)** | VLANs & Segmentação | [Consultar](./09_VLANS.md) |
+| **09 [VLANS](./09_VLANS.md)** | VLANs & Segmentação | [Consultar](./09_VLANS.md) |
 | **[Desafios Práticos](./Desafios.md)** | Desafios de redes. | [Consultar](./Desafios.md) |
 
 
