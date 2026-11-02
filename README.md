@@ -6,8 +6,6 @@ O objetivo principal é descomplicar temas complexos como análise de pacotes, p
 
 ---
 
-## 📑 Tabela de Conteúdos
-
 | Módulo / Tema | Descrição | Ficheiro / Link |
 | :--- | :--- | :--- |
 | **01 [Modelo OSI](./01_OSI.md)** | Camadas do Modelo OSI e TCP/IP, encapsulamento e conceitos base. | [Consultar](./01_OSI.md) |
