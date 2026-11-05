@@ -17,7 +17,9 @@ O objetivo principal é descomplicar temas complexos como análise de pacotes, p
 | **07 [NAT](./07_NAT.md)** | Network Address Translation | [Consultar](./07_NAT.md) |
 | **08 [ARP](./08_ARP.md)** | Address Resolution Protocol | [Consultar](./08_ARP.md) |
 | **09 [VLANS](./09_VLANS.md)** | VLANs & Segmentação | [Consultar](./09_VLANS.md) |
+| **10 [Wireshark](./10_Wireshark.md)** | Breve introdução à ferramenta Wireshark | [Consultar](./10_Wireshark.md) |
 | **[Desafios Práticos](./Desafios.md)** | Desafios de redes. | [Consultar](./Desafios.md) |
+
 
 
 ---
