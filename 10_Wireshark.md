@@ -50,6 +50,7 @@ Em vez de veres tudo, podes ordenar ao inspetor para mostrar apenas o que te int
 * [ ] C) Bloquear automaticamente vírus e ataques de hackers.
 
 ---
+## Download: https://www.wireshark.org/download.html
 
 2. Se quiseres ver apenas os pacotes relacionados com o protocolo DNS no meio de milhares de linhas no Wireshark, o que deves fazer?
 * [ ] A) Usar a barra de filtros na parte superior e escrever `dns`.
